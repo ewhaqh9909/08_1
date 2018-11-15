@@ -12,7 +12,7 @@ int main(int argc, char *argv[]) {
 	pi=(int*)10000;
 	pd=(double*)10000;
 	
-	printf("before:pc=%d,pi=%d,pd%d\n",pc,pi,pd);
+	printf("before:pc=%d, pi=%d,pd%d\n",pc,pi,pd);
 	
 	pc++;
 	pi++;
